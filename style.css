@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Arimo', sans-serif;
+    font-size: 14px;
+}
+h1, h2 {
+    color: #000000;
+}
+h1 {
+    font-size: 63px; 
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 20px;   
+}
+.pizda {
+    text-align: left;
+    margin-top: 10px;
+}
+.hui {
+    color: #f76ec8;
+}
+.container {
+    width: 1040px;
+    margin: 0 auto 0 auto;
+}
+
+.pic {
+    float: left;
+}
+
+.link {
+    margin-top: 40px;
+    position: relative;
+
+}
+.ebalo {
+    color: #f8def0;
+}
+.link img {
+    height: 165px;
+    width: 165px;
+    border-radius: 5px;
+}
+.date {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.date img {
+    height: 45px;
+    width: auto;
+}
