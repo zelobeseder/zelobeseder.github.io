@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 12px;
 }
+
 body {
     font-family: 'Arimo', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
 }
 h1, h2 {
     color: #000000;
